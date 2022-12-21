@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.Heading {
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.start-button {
+  margin-right: 10px;
+}
+
+.ant-picker-now {
+  display: none !important;
+}
+
+.gx-mb-4 {
+  margin-bottom: 15px !important;
+}
